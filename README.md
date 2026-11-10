@@ -2,7 +2,7 @@
 
 Prototipo de la app **Parking Smart V3**, proyecto estudiantil para la Feria de Bachillerato Técnico.
 
-Propuesta para el parqueadero de la Hostería La Puesta de Sol (Catamayo, Ecuador), donde los fines de semana y feriados hay gran afluencia vehicular.
+Propuesta para el parqueadero de la Hostería La Puesta del Sol (Catamayo, Ecuador), donde los fines de semana y feriados hay gran afluencia vehicular.
 
 ## Capacidad
 
